@@ -15,6 +15,7 @@ terraform.tfstate.backup
 *.tfstate.*
 terraform.tfvars
 *.lock.hcl
+.tfvars
 
 # Local environment files
 .env
